@@ -51,14 +51,3 @@ root.config(menu=menubar)
 root.mainloop()
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
